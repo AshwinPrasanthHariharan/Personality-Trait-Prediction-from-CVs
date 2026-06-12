@@ -1,5 +1,5 @@
 # CodeClauseInternship_PersonalityPrediction
-Predicts personality from resume using NLP and GUI with Tkinter (Golden-level CodeClause AI Internship project)
+Golden-level CodeClause AI Internship project - Predicts personality from resume using NLP and GUI with Tkinter 
 # Personality Prediction System via CV (GUI)
 
 This is a golden-level AI project developed as part of the CodeClause Artificial Intelligence Internship. The system predicts personality traits (Introvert or Extrovert) from the textual content of resumes using NLP and machine learning.
