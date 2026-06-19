@@ -1,4 +1,4 @@
-# CodeClauseInternship_PersonalityPrediction
+# Personality Trait Prediction from CVs (NLP)
 Golden-level CodeClause AI Internship project - Predicts personality from resume using NLP and GUI with Tkinter 
 # Personality Prediction System via CV (GUI)
 
